@@ -1,3 +1,1 @@
-const str: string = 'hello'
-
-console.log(str)
+console.log(1)

@@ -16,9 +16,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -28,11 +33,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622882629410</updated>
-      <workItem from="1622882630608" duration="1030000" />
+      <workItem from="1622882630608" duration="3335000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1622889136679">
+      <screen x="-396" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="229" y="-822" width="670" height="676" key="search.everywhere.popup/26.23.1254.777/-396.-1057.1920.1057@-396.-1057.1920.1057" timestamp="1622889136679" />
   </component>
 </project>
