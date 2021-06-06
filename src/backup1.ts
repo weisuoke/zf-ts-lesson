@@ -65,3 +65,48 @@ function a(): void {
 }
 
 // 字符串 数字 布尔类型 元组 数组 枚举 any null 和 undefined
+
+// never类型 永远不是任何类型的子类型 可以把 never 赋予给任何类型
+// 永远达不到的情况有三种
+// 1. 错误
+// 2. 死循环
+// 3. 类型判断是会出现 never
+function MyError():never {
+    throw new Error("")
+}
+let n: never = MyError()
+
+function whileTrue():never {
+    while (true) {}
+}
+
+function byType(val: string|number) {
+    if (typeof val == 'string') {
+        val
+    } else if (typeof val === 'number') {
+        val
+    } else {
+        val // never
+    }
+}
+
+// Symbol BigInt symbol 表示独一无二 元编程会用到
+let s1 = Symbol('123');
+
+// BigInt
+let num1 = Number.MAX_SAFE_INTEGER + 1;
+let num2 = Number.MAX_SAFE_INTEGER + 2;
+console.log(num1 == num2)   // true
+
+let num3 = BigInt(Number.MAX_SAFE_INTEGER) + BigInt(1);
+let num4 = BigInt(Number.MAX_SAFE_INTEGER) + BigInt(2);
+console.log(num3 == num4)   // false
+
+// 对象类型 非原始数据类型 object
+
+const create = (obj: object) => {
+
+}
+
+export {} // 防止模块干扰
+
