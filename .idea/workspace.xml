@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39652f34-9422-48d3-9250-14d43e47984d" name="Default Changelist" comment="" />
+    <list default="true" id="39652f34-9422-48d3-9250-14d43e47984d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/backup6.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1tWQzYONooUxxrs1O95iZIslULu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -16,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
@@ -33,7 +44,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622882629410</updated>
-      <workItem from="1622882630608" duration="6377000" />
+      <workItem from="1622882630608" duration="17760000" />
+      <workItem from="1623632973738" duration="2232000" />
+      <workItem from="1624201393504" duration="3785000" />
     </task>
     <servers />
   </component>
@@ -41,9 +54,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="229" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1622901499316">
-      <screen x="-396" y="-1057" width="1920" height="1057" />
+    <state x="247" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1623633348981">
+      <screen x="-370" y="-1057" width="1894" height="1057" />
     </state>
+    <state x="247" y="-822" width="670" height="676" key="search.everywhere.popup/26.23.1254.777/-370.-1057.1894.1057@-370.-1057.1894.1057" timestamp="1623633348981" />
     <state x="229" y="-822" width="670" height="676" key="search.everywhere.popup/26.23.1254.777/-396.-1057.1920.1057@-396.-1057.1920.1057" timestamp="1622901499316" />
   </component>
 </project>
